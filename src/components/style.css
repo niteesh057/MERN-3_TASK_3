@@ -1,0 +1,23 @@
+.ni{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 100vh;
+    flex-direction: column;
+    background: linear-gradient(to right, #b39dee, #f6b0f7, #b39dee);
+}
+#ni_2{
+    height: 400px;
+    margin-bottom: 30px;
+    width: fit-content;
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.60);
+    border: none;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
